@@ -73,5 +73,11 @@ Example 43
 - 1 % 2 = `1`
 - 1/2 = 0
 - 0 % 2 = `0`
-- Result: `1101010`
+- Result: `0101011`
 
+> Look up how to add
+
+## Multiplication
+- To mulitiply a binary digit by 2, add a 0 on the right
+- Use the bit shift operator, written in C as a << 2 (shifts the bits of a two spaces to the right)
+- Division is shifting it the other direction. a >> 3 (divide a by 2<sup>3</sup>
