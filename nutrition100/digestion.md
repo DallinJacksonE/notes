@@ -45,7 +45,7 @@
 
 ## Carbohydrates
 - Main nutrient the human body uses for fuel, primarily from plants, since photosynthesis is what makes carbohydrates
-```6C0<sub>2</sub> + 6H<sub>2</sub>0 = C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>```
+- 6C0<sub>2</sub> + 6H<sub>2</sub>0 = C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>
 **Simple sugars**
   1. Glucose
   2. Fructose - 5 sides
