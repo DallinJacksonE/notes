@@ -28,9 +28,44 @@
 
 ### Nonceliac Gluten Sensitivity
 - _Gluten intolerance_ or _gluten sensitivity_
-- Experience symptoms after the digestion of gluten
+**Experience symptoms after the digestion of gluten**
 -   Fatigue
 -   Bloating
 -   Joint pain
 -   Sleep disorders
+**Treatment**
+- Elimination of wheat, rye, and barley
+
+## Nutrient Storage
+- The human body maintains a store of nutrients to help us when we are not eating
+- Fat is stored in the body in adipose tissue
+- Glucose and glycogen are short term storages of carbs in the liver and muscle
+- Vitamins and minerals: location and method varies
+- Balanced diet is the safest means to acquire nutrients needed for optimal health
+
+## Carbohydrates
+- Main nutrient the human body uses for fuel, primarily from plants, since photosynthesis is what makes carbohydrates
+```6C0<sub>2</sub> + 6H<sub>2</sub>0 = C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>```
+**Simple sugars**
+  1. Glucose
+  2. Fructose - 5 sides
+  3. Galactose - flipped OH group
+
+### Glucose
+- Major monosaccharide in the body
+- In table sugar, bonded to fructose
+- called blood sugar in the bloodstream
+- from starches and sucrose
+- the fuel that cells use
+
+### Fructose
+- Fruit Sugar
+- In fruit, honey, and high-f corn syrup
+- Converted into glucose in the liver or fat if consumed in high amounts
+- Beneficial when consumed in fruits
+
+### Galactose
+- Bonded to glucose in lactose (Milk sugar)
+- Converted to glucose in the liver
+- Made from glucose in the mammary gland during milk production
 
