@@ -86,4 +86,71 @@ Sources of cholesterol are animal based, eggs, milk,
 
 Sources of phytosterols are plant based
 
+## Fat digestion
+
+**Mouth/salivary glands**
+Produce salivary lipase that is activated in the stomach
+
+**Stomach**
+Produce gastric lipase
+
+**Liver/gallbaldder**
+Produces bile to aid in fat digestions
+
+**Pancrease**
+Releases pancreatic lipase to break down triglycerides into glycerol, etc.
+
+**Small intestine**
+Where most fat digestion and and absorption occurs
+- **Small intestinal lining:
+    Absorbs the borken down large fat droplets
+
+**Transportation in the blood**
+Lipoprotiens serve as transport of fats, made of a shell of phospholipids, they allow fat to move through the water-based bloodstream
+  **Lipoprotien classes**
+  - Chylomicorn: triglyceride, carries dietary fat to the cells from small intestine
+  - VLDL: triglyceride, carries lipids made and taken up by the liver to cells
+  - LDL: cholesterol, carries cholesterol made by the liver to the cells
+  - HDL: protien, contributes to cholesterol removal from cells and the excretion of it from the body
+
+## Heart Problems
+
+### Atherolsclerosis
+- high amounts of minerals, platelets, and oxidized LDL form a plaque in the damaged inner lining of arteries.
+- White cells attatch to the cholesterol heap, foam, and calcify over the years
+- Narrowed arteriy is at risk for clots, which causes strokes and loss of blood supply to areas of the body if clot tears off.
+
+### Risk factors for cardiovascular disease
+- Smoking
+- Age > 65 (men > 45) (women > 55)
+- Physical inactivity
+- Excess body fat
+- High blodd pressure
+- High cholesterol
+  - Elevated LDL, elevated triglycerides
+- Family history
+- Ethnicity
+- Diabetes
+- Chronic kidney disease
+- Inflammatory diseases
+- Males are at higher risk than females
+
+**Dietarty/ Lifestyle and CVD**
+
+Risks:
+- diets high in calories, saturated fats, sodium, and added sugar
+- diets low in fruits and vegetables
+
+Recommendations:
+- diets low in saturated fat, sodium, and added sugar
+- diests high in fruits and vegetables
+- whole grains
+- Exercise! (150-300 min a week)
+- **comsume more omega 3, and less omega 6 fats**
+  - omega 3 lowers blood pressure, reduces blood clots, reduces inflammatino, increases HDL, reduces LDL and triclycerides, stabilize heart rythmns
+  - People who eat 8oz of fish a week are at lower risk for heart disease
+  - Mediterranean diet is pretty good (extra virgin olive oil)
+
+
+
 
