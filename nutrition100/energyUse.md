@@ -106,4 +106,46 @@ One obese parent gives offpsring 40% chance of obesity in adulthood
 Two obese parents - 80% risk of obesity
 
 Genetics cannot explain how the obesity rates have spiked in recent decades
+Other factors that are likely playing a part:
+- Screens
+- Availability of energy dense foods
+- Food industies
+- Culture of soda
+- Stress levels
+- etc.
+
+## Healthy and Reliable Weight Management plans
+- Incoprorates: Controlling energy intake, engage in positive lifestyle behaviours, perform regualr physical activity
+- "Diet" carries with it a temporal behaviour, but maintenence of a healthy weight requires a healthy life sustained
+
+Guidelines:
+- do more than just restrict calories, increase physical activity
+- adjuest calorie intake, even increase calories if needed to adjust for activity
+- starvation will lead your body to consume it's lean muscle mass, which will mean losing the wrong weight, physical activity ensures lean muscle is maintained and increasesd
+- adults need to move more and sit less
+  - adults who move more often have greater bone density, more energy, better sleep, reduced risk of chronic disease
+
+A sound eating plan has:
+- The rate of weight loss is slow and consistent
+  - rapid weight loss will weaken and sicken the body, and tissues of vital organs (Heart, lungs, liver) will be broken down to fuel the body as it reacts to what it thinks is a starvation time period.
+  - more than 1 or 2 pounds lost a week is too high
+- Plan should maintain a degree of flexibility, attend social events, eat cake, eat out, don't be entirely restricted
+- Dietary pattern should be varied, with nutrient-dense food sources
+  - no "magic" foods or pills
+
+Glucagon-like peptide-1 (GLP-1)
+- released from the ileum and colon in response to calorie intake
+- inhibits food intake via vagus nerve
+- effects:
+  - slows gastric mobilityl
+  - increases level of satiety
+  - promotes insulin release
+  - inhibits glucagon
+  - inhibits release of gastric acid secretion
+
+Successful weight losers:
+- 78% eat breakfast
+- 75% weight themselves at least once a week
+- 60% watch less than 10 hrs of TV
+- 90% exercise for 1 hr a day
 
